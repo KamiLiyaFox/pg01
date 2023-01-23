@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 "Deni i Niyt"
+=======
+"Deni i Niyt"
+Goog
+Bip
+master
+
+>>>>>>> addScript

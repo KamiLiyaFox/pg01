@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Sveta hello
 blue
 sky
 bee
 jet
+=======
+Sveta hello
+blue
+sky
+bee
+jet
+>>>>>>> addScript
